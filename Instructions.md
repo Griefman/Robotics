@@ -17,9 +17,6 @@ This book covers the following exciting features:
 * Interface robot actuators with embedded boards
 
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
-
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
